@@ -1,0 +1,28 @@
+body{
+  font-family: Times New Roman;
+  background: #001e4a;
+  color: white;
+  
+}
+.welcom{
+  color: #56f921;
+  font-size: 27px;
+}
+
+.top span{
+  
+  color: gold;
+}
+
+.info{
+  border:2px solid gold ;
+  padding:  20px;
+}
+b{color: gold;}
+img{
+  width: 100%;
+}
+
+.number{
+  border:2px solid gold ;
+}
